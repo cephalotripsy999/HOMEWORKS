@@ -1,0 +1,66 @@
+@font-face{
+  src: url(fonts/Frijole-Regular.ttf);
+  font-family: frijole;
+}
+
+body{
+  background-image: url('./IMAGES/logo.png');
+  background-size: 1100px;
+  margin: 0;
+  background-attachment: fixed;
+  background-position-x: center;
+}
+.first{
+  font-family: frijole;
+  font-size: 40px;
+  text-align: center;
+  line-height: 1px;
+  }
+.second{
+background: linear-gradient(rgba(228, 146, 131, 0.863), rgba(255, 255, 255, 0.5));
+text-align: center;
+font-family: cursive;
+font-size: 14px;
+width: 900px;
+text-align: center;
+border: 7px solid black;
+margin-left: auto;
+margin-right: auto;
+}
+.third{
+  font-family: frijole;
+  border: solid black;
+  padding: 2px;
+  border-width: 7px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 5px;
+}
+#name{
+  font-family: frijole;
+  border: solid black;
+  border-radius: 50px;
+  padding: 2px;
+  border-width: 7px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 390px;
+  margin-right: 390px;
+}
+#pares{
+  height: 450px;
+  width: 350px;
+  border: solid gold;
+  border-radius: 10px;
+  border-width: 5px;
+}
+
+#litid{
+  height: 450px;
+  width: 350px;
+  border: solid gold;
+  border-radius: 10px;
+  border-width: 5px;
+}
